@@ -12,6 +12,7 @@
     "node": ">=20"
   },
   "dependencies": {
+    "ioredis-om": "^5.10.2",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
